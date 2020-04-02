@@ -1,0 +1,56 @@
+.user{
+    display: flex;
+    background-color: white;
+    margin: 20px 0px 50px 100px;
+    border-radius: 5px;
+    
+}
+
+.user-img{
+    width: 50%;
+    margin: auto;    
+}
+
+.user-img img{
+    border-radius: 5%;
+    
+}
+
+.user-container{
+    width: 70%;
+    margin-left: 20px;
+    padding-bottom: 15px;
+}
+
+.user-info{
+    display: flex;
+}
+.user-info div{
+    width: 50%;
+    text-align: left;
+}
+.user-info h5{
+   padding: 0;
+   margin: 0;
+   margin-bottom: 5px;
+}
+
+.add-friend-btn{
+    padding: 5px 30px;
+    color: #1a0505;
+    background-color:  goldenrod;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.friend-btn{
+    padding: 5px 40px;
+    color:  #ad9f1b;
+    background-color: #dfddcd;
+    border: 1px solid #b9a7c0;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 18px;
+}
